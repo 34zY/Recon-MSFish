@@ -19,3 +19,6 @@ python DetectMS-Phishing-Campaign.py <url>
 python DetectMS-Phishing-Campaign.py -h or -help
 ```
 
+## Blog post
+
+https://medium.com/@34zy/how-to-detect-simulation-of-phishing-attack-from-microsoft-o365-45f5edeb70b3
